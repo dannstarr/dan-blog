@@ -16,8 +16,8 @@ const Header = () => {
     <div className="container mx-auto px-10 mb-8">
       <div className="border-b w-full inline-block border-blue-400 py-8">
         <div className="md:float-left block">
-          <Link href="/">
-            <span className="cursor-pointer font-bold text-2xl text-white">The destination is the journey...</span>
+          <Link href="https://www.danbrain.co.uk">
+            <span className="cursor-pointer font-bold text-2xl text-white">My Profile</span>
           </Link>
         </div>
         <div className="hidden md:float-left md:contents">
